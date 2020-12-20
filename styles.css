@@ -50,3 +50,7 @@ li a {
   color: white;
   text-align: center;
 }
+
+.search-button {
+  margin: 2px;
+}
